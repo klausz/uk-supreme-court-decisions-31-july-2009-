@@ -1,0 +1,1 @@
+Scrapes the UK Supreme Court website for the texts of decisions (and a small amount of meta information). This is distinct from the case (docket) information which is scraped by another scraper.
